@@ -1,0 +1,160 @@
+trivia:
+  enable: true
+  case-sensitive: false
+  #__Leave the following 2 empty to disable them__
+  titleMessage: 'TRIVIA'
+  subtitleMessage: '&aCheck Chat!'
+  data:
+    1:
+      question: 'Who is the goddess of magic?'
+      answer: 'Mystra'
+    2:
+      question: 'Where is the city of Neverwinter located?'
+      answer: 'Faerun'
+    3:
+      question: 'Which Sea borders the Sword Coast?'
+      answer: 'Sea Of Swords'
+    4:
+      question: 'Who is the goddess of Luck?'
+      answer: 'Tymora'
+    5:
+      question: 'The Neverwinter docks were located on the Bay of Mists at the mouth of what river?'
+      answer: 'Neverwinter River'
+    6:
+      question: 'Luskan, was also known as the City of?'
+      answer: 'Sails'
+    7:
+      question: 'Icewind Dale was an arctic tundra located in what region of the North?'
+      answer: 'Frozenfar'
+    8:
+      question: 'Menzoberranzan was possibly the most well known drow city in Faerûn. It was home to which heroic drow?'
+      answer: 'Drizzt Do Urden'
+    9:
+      question: 'The city of Menzoberranzan, mainly covered from calcite, the city was filled with blue, green, and violet faerie fire and Buildings were often covered with?'
+      answer: 'Spiders'
+    10:
+      question: 'Who was the most influential goddess of the drow?'
+      answer: 'Lolth'
+    11:
+      question: 'Which evil mythological creature was part woman and part bird?'
+      answer: 'Harpy'
+    12:
+      question: 'Dwarves were unusually tough for humanoids, in more ways than one. Dwarven stomachs, for instance, were resistant to virtually all?'
+      answer: 'Poisons'
+    13:
+      question: 'Nasher had collected numerous magic items during his adventuring career, what was the name of his enchanted boots?'
+      answer: 'Nashers nimble boots'
+    14:
+      question: 'What is another name for The Hall of Justice in the city of Neverwinter?'
+      answer: 'Temple of Tyr'
+    15:
+      question: 'What is the name of the main river that runs through Waterdeep?'
+      answer: 'Dessarin'
+    16:
+      question: 'What is the largest forest in Faerûn?'
+      answer: 'High Forest'
+    17:
+      question: 'Halaster Blackcloak, formerly Hilather Blackcloak, was a notorious, ancient, and utterly insane wizard who resided within his lair, the infamous?'
+      answer: 'Undermountain'
+    18:
+      question: 'Where are the Nine Hells of Baator located?'
+      answer: 'Outer Planes'
+    19:
+      question: 'The Astral plane connects all of the fiendish planes to what plane?'
+      answer: 'Prime Material Plane'
+    20:
+      question: 'Which races is known for their floating cities?'
+      answer: 'Netherese'
+    21:
+      question: 'What mountain range is home to the dwarven city of Mithral Hall?'
+      answer: 'Spine Of The World'
+    22:
+      question: 'Which region in Faerûn is ruled by the Seven Sisters and is known for its magical heritage?'
+      answer: 'The Silver Marches'
+    23:
+      question: 'What is the name of the vast desert located in the southern parts of Faerûn?'
+      answer: 'The Anauroch Desert'
+    24:
+      question: 'What makes Tieflings distinct among the humanoid races?'
+      answer: 'Infernal heritage'
+    25:
+      question: 'Which demon lord is known as the Prince of Demons and resides in the Abyss?'
+      answer: 'Demogorgon'
+    26:
+      question: 'Who os the god of thieves?'
+      answer: 'Mask'
+    27: 
+      question: 'What race is known for living in burrows and having an affinity for luck?'
+      answer: 'Halfling'
+    28:
+      question: 'What type of creature is an Illithid also known as?'
+      answer: 'Mind Flayer'
+    29:
+      question: 'What plane serves as the dark reflection of the Feywild?'
+      answer: 'Shadowfell'
+    30:
+      question: 'Who rules the first layer of the Abyss?'
+      answer: 'Pazuzu'
+    31:
+      question: 'What race primarily lives in the Underdark alongside the Drow?'
+      answer: 'Duergar'
+    32:
+      question: 'Which race is known for their resistance to illusions and their love of tinkering?'
+      answer: 'Gnome'
+    33:
+      question: 'Which monstrous humanoid race is known for their regenerative abilities?'
+      answer: 'Troll'
+    34:
+      question: 'What is the name of the ruling system in most Drow cities?'
+      answer: 'Matriarchy'
+    35:
+      question: 'What is the capital city of the Drow in the Underdark?'
+      answer: 'Menzoberranzan'
+    36:
+      question: 'What continent lies west of Faerûn?'
+      answer: 'Evermeet'
+    37:
+      question: 'What is the name of the demonic spider-like creatures that Lolth creates from cursed Drow?'
+      answer: 'Drider'
+    38:
+      question: 'Which dwarven god is known as the All-Father of the Dwarves?'
+      answer: 'Moradin'
+    39:
+      question: 'What is the name of the powerful orc nation in Faerûn?'
+      answer: 'Kingdom of Many Arrows'
+    40:
+      question: 'What ability do Deep Gnomes (Svirfneblin) have that sets them apart from Rock Gnomes?'
+      answer: 'Illusion Magic'
+    41:
+      question: 'What is the largest city in Faerûn?'
+      answer: 'Waterdeep'
+    42:
+      question: 'Which region is known as the Land of Pirates?'
+      answer: 'The Nelanther Isles'
+    43:
+      question: 'What is the name of the undead-infested wasteland in Faerûn?'
+      answer: 'Thay'
+    44:
+      question: 'Who is the god of war in Faerûn?'
+      answer: 'Tempus'
+    45:
+      question: 'What is the language of dragons and dragonborn?'
+      answer: 'Draconic'
+    46:
+      question: 'What is the native language of the Drow?'
+      answer: 'Undercommon'
+    47:
+      question: 'What is the ancient language of magic, often used in spellcasting?'
+      answer: 'Draconic'
+    48:
+      question: 'What multi-eyed, floating aberration is sometimes found in the Underdark?'
+      answer: 'Beholder'
+    49:
+      question: 'What savage reptilian creatures dwell in the deepest parts of the Underdark?'
+      answer: 'Troglodyte'
+    50:
+      question: 'What terrifying creatures are covered in hooks and known for their bloodlust?'
+      answer: 'Hook Horror'
+    51:
+      question: 'What is the name of the chaotic, shifting tunnels of madness deep within the Underdark?'
+      answer: 'The Far Realm'
